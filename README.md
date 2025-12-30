@@ -12,7 +12,7 @@ algo.md provides instructions on the Genetic Algorithm implementation.<br><br>
 
 Potential further research:<br>
 - Enhancing the algorithm by further local search instead of relying on global optimization only.
-- Adding fixed income to a portfolio. (Rf)
+- Adding fixed income to a portfolio.
 <br><br>
 
 Credits: WSJ, PSX, SBP.<br>
